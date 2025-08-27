@@ -39,8 +39,7 @@ dependencies:
   auto_size_text: 
   flutter_bloc:
   flutter_svg: 
-  floating_bottom_navigation_bar :
-  convex_bottom_bar:
+
 
 dev_dependencies:
   flutter_test:
